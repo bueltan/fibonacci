@@ -1,4 +1,4 @@
-You get my whatsapp number encoded in hexadecimal using the fibonacci equacion.
+You get my whatsapp number encoded in hexadecimal using the fibonacci equation.
 
 Send me the python code by whatsapp.
 The result starts at h--, that means in this case :
